@@ -1,0 +1,20 @@
+body{
+    /* background-image: url(./asserts/newspaper.avif) */
+    background: url(./asserts/newspaper.avif) scroll no-repeat ;
+    background-size: cover;
+
+    
+    
+}
+div{
+    background-color: white;
+    margin-top: 40%;
+    border-radius: 30px;
+    padding:10px 20px 15px 100px;
+}
+button{
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    font-size: larger;
+}

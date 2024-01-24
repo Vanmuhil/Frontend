@@ -1,0 +1,66 @@
+body{
+    background-color: aqua;
+}
+header{
+    margin-top:2%;
+    text-align: center;
+}
+section{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    margin:0 auto;
+    padding: 10px;
+    text-align: center;
+    margin-top: 5%;
+}
+img{
+    height:70px;
+    width: 70px;
+    border-radius: 50px;
+}
+#arrow{
+    padding-right: 255px;
+}
+table{
+    margin:0 auto;
+}
+button{
+    background-color: rgb(249, 81, 109);
+    color: white;
+    border-radius: 30px;
+    font-size: medium;
+}
+#globe{
+    border-radius: 30px;
+    border:7px solid rgb(249, 81, 109);
+    color:aqua;
+    background-color: rgb(249, 81, 109);
+}
+#be{
+    border-radius: 30px;
+    border:7px solid blue;
+    color:white;
+    background-color:blue;
+}
+#twitter{
+    border-radius: 30px;
+    border:7px solid blue;
+    color:white;
+    background-color:blue;
+}
+footer{
+    text-align: center;
+}
+.p2{
+    color: rgba(23, 151, 151, 0.607);
+}
+.spam{
+    color: black;
+}
+#toggle{
+    color: rgb(88, 120, 131);
+    size: 300px;
+
+}
+

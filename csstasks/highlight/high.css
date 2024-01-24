@@ -1,0 +1,47 @@
+ul{
+    list-style-type: none;
+    display: flex;
+}
+.feature{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.company{
+    margin-right: 25px
+}
+.pricing{
+    margin-right: 25px
+}
+.customers{
+    margin-right: 25px
+}
+.support{
+    margin-right: 25px
+}
+header{
+    background-color: blue;
+    color: white;
+    width: 600px;
+    height: 40px;
+    padding:5px;
+    margin:0 auto;
+    margin-top:250px;
+}
+.company:active{
+    text-decoration: underline;
+}
+.home:active{
+    text-decoration: underline;
+}
+.feature:active{
+    text-decoration: underline;
+}
+.pricing:active{
+    text-decoration: underline;
+}
+.customers:active{
+    text-decoration: underline;
+}
+.support:active{
+    text-decoration: underline;
+}

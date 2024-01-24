@@ -1,0 +1,122 @@
+.class00{
+    display: flex;
+    justify-content: space-around;
+    align-items:end;
+    background-color: aqua;
+    width:50%;
+    height: 60px;
+    padding-left: 45px;
+    padding-top: 10px;
+    margin:0 auto;
+    margin-top: 150px;
+}
+.class01{
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+    align-items:end;
+    width:50%;
+    height: 60px;
+    padding-left: 45px;
+    margin:0 auto;
+}
+.class02{
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+    width:50%;
+    height: 60px;
+    padding-left: 45px;
+    padding-top: 10px;
+    margin:0 auto;
+}
+.class1{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:10px;
+}
+.class10{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:10px;
+}
+.class100{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:10px;
+}
+.class2{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:10px;
+}
+.class20{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:10px;
+}
+.class200{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:10px;
+}
+.class3{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:10px;
+}
+.class30{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:10px;
+}
+.class300{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:10px;
+}
+.class4{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:10px;
+}

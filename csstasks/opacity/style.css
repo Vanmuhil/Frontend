@@ -1,0 +1,45 @@
+body{
+    background:url(./asert/barber.jpg) scroll no-repeat; 
+    background-size: cover;
+    /* opacity: 0.7; */
+}
+section{
+    width: 250px;
+    height: 150px;
+    margin:0 auto;
+    margin-top: 200px;
+    padding: 50px;
+    color: azure;
+    text-align: center;
+}
+header{
+    color: white;
+    padding-left: 50px;
+ }
+.barber{
+    margin-right: 1200px;
+    display: inline-block;
+}
+.menu{
+    border: 3px;
+    border: 5px solid gray;
+    background-color: gray;
+    color: white;
+}
+.cut{
+    border-radius:50px;
+    border: 5px solid gray;
+    background-color: gray;
+    color: white;
+}
+.Full{
+    font-size: 45px;
+}
+/* .op>img{
+    height:700px ;
+     width: 1000px; 
+    opacity: 0.9;
+} */
+{
+    opacity: 0.2;
+}

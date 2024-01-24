@@ -1,0 +1,80 @@
+body{
+    background: url(./assert/superman.webp) scroll no-repeat ;
+    background-size: cover;
+}
+h1{
+    color:yellowgreen;
+}
+.p1{
+    display: inline-block;
+    margin-left: 700px;
+}
+.p2{
+    display: inline-block;
+    margin-left: 50px;
+}
+h1{
+    display: inline-block;
+}
+ul{
+    list-style-type: none;
+    display:flex;
+    background-color: white;
+    border-radius: 40px;
+    width: 80%;
+    height: 30px;
+    padding-top: 15px;
+}
+.about{
+    margin-left: 50px;
+}
+.package{
+    margin-left: 50px;
+}
+.gallery{
+    margin-left: 50px;
+}
+.pricing{
+    margin-left: 50px;
+}
+.contact{
+    margin-left: 50px;
+}
+#face{
+    margin-left: 500px;
+    color: grey;
+}
+#twitter{
+    margin-left: 50px;
+    color: yellow;
+}
+#link{
+    margin-left: 50px;
+    color: yellow;
+}
+#clock{
+    color: red;
+}
+#location{
+    color: yellowgreen;
+}
+.div1{
+    margin:200px 600px 300px 70px;
+}
+.welcome{
+    color: rgb(255, 0, 0);
+}
+.bring{
+    color: yellowgreen;
+}
+.amazing{
+    color:yellowgreen;
+}
+button{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-size: larger;
+    border: none;
+}

@@ -1,0 +1,50 @@
+.class0{
+    display: flex;
+    gap:70px;
+    background-color: aqua;
+    border: 3px solid black;
+    padding-top: 82;
+    width:50%;
+    height: 60px;
+    padding-left: 45px;
+    padding-top: 10px;
+    margin:0 auto;
+    margin-top: 150px;
+
+}
+.class1{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:25px;
+}
+.class2{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:25px;
+}
+.class3{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:25px;
+}
+.class4{
+    color: white;
+    background-color:cornflowerblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius:25px;
+}

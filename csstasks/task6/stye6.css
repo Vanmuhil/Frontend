@@ -1,0 +1,47 @@
+body{
+    background-color: aqua;
+}
+section{
+    background-color: white;
+    width: 50%;
+    margin:0 auto;
+    margin-top: 200px;
+    padding:20px;
+}
+#name{
+    margin-left: 150px;
+    width: 300px;
+    height: 25px;
+    padding-left: 10px;
+}
+.email{
+    margin-left: 150px;
+    width: 300px;
+    height: 25px;
+    padding-left: 10px;
+}
+#about{
+    margin-left: 150px;
+    width: 300px;
+    height: 25px;
+    padding-left: 10px;
+}
+.button{
+    color: white;
+    margin-left: 150px;
+    background-color: red;
+}
+#youtube{
+    margin: 10px;
+    color:red;
+    background-color: white;
+}
+#face{
+    margin: 10px;
+    color: red;
+}
+#twitter{
+    margin: 20px;
+    color: red;
+    background-color: white;
+}

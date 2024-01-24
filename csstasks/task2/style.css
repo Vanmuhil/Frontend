@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(12, 71, 73, 0.553);
+}
+div{
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    height: 350px;
+    margin: 10% 40% 30% 40%;
+    padding: 10px 6px 10px 6px ;
+    line-height: 30px;
+}
+button{
+    width: 280px;
+    border-radius: 30px;
+    background-color: rgba(35, 111, 114, 0.747);
+    color: white;
+}
+.name{
+    width: 270px;
+}
+.pass{
+    width: 270px;
+}
+#x{
+    margin-left: 260px;
+}
+#twit{
+    border-radius:50px;
+    border: 30px;
+    color: white;
+    background-color:gray;
+    width: 20px;
+    height: 15px;
+    padding: 9px;
+}
+#face{
+    border-radius:50px;
+    border: 30px;
+    color: white;
+    background-color:gray;
+    width: 20px;
+    height: 15px;
+    padding: 9px;
+}
+#link{
+    border-radius:50px;
+    border: 30px;
+    color: white;
+    background-color:gray;
+    width: 20px;
+    height: 15px;
+    padding: 9px;
+}

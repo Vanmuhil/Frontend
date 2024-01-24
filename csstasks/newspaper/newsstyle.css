@@ -1,0 +1,90 @@
+body{
+    background-color: black;
+}
+ul{
+    list-style-type:none;
+    display:flex;
+    background-color: orange;
+    color: white;
+    height: 25px;
+    width: 80%;
+    padding-top: 8px;
+    margin:0 auto;
+}
+select{
+    background-color: orange;
+    color: white;
+    padding-left:50px;
+    border-color: orange;
+}
+.latest{
+    padding-left:50px;
+}
+.featured{
+    padding-left:50px;
+}
+.fasion{
+    padding-left:50px;
+}
+.wild{
+    padding-left:50px;
+}
+.travel{
+    padding-left:50px;
+}
+.health{
+    padding-left:50px;
+}
+.culture{
+    padding-left:50px;
+}
+.search{
+    padding-left:50px;
+}
+.menu{
+    padding-right: 50px;
+}
+.news{
+    text-align: center;
+}
+.ntc{
+    text-align: center;
+}
+section{
+    column-count: 3;
+    column-gap: 20px;
+    column-rule-style:dashed ;
+}
+.whole{
+    width:80%;
+    height: 750px;
+    margin:0 auto;
+    background-color:white;
+}
+.label{
+    float: left;
+}
+.onion{
+ text-align: left;
+ padding-left: 25px;
+}
+div h2{
+    border:2px solid black;
+}
+div h3{
+    text-decoration: underline;
+}
+.modi{
+    text-align:center;
+}
+.div1{
+    display: flex;
+    padding: 20px;
+    gap: 390px;
+}
+.news{
+    padding-right: px;
+}
+/* .vol{
+    padding-left: 50px;
+} */
